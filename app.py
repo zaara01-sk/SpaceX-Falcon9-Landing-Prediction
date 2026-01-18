@@ -1,6 +1,6 @@
 """
 SpaceX Falcon 9 Launch Dashboard
-Author: [Your Name]
+Author: Zaara Shaikh
 Date: January 2026
 Description: A production-ready Dash application visualizing SpaceX launch success
              rates and payload correlations.
@@ -126,5 +126,4 @@ def get_scatter_chart(entered_site, payload_range):
 # =============================================================================
 
 if __name__ == '__main__':
-    # Using 'debug=False' for a more stable terminal environment
     app.run(debug=True, port=8050)
