@@ -1,5 +1,8 @@
 # SpaceX Falcon 9 First Stage Landing Prediction
 
+## Acknowledgement: 
+This project follows the structure given by the IBM Data Science Professional Certificate Course.
+
 ## Project Overview
 This project predicts the success of SpaceX Falcon 9 first-stage landings. By accurately predicting landing outcomes, we can estimate the cost of a launch, as the first stage's reusability is the primary factor in SpaceX's cost advantage over competitors.
 
